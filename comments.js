@@ -1,4 +1,4 @@
-// Create a web server that can respond to requests for /comments.json
+// Create web server that can respond to requests for /comments.json
 // with a random comment from the array of comments in the data file.
 // Use the fs module to read the file and JSON.parse() to convert it to an array.
 // Use the path module to get the extension from the incoming URL, and use that
